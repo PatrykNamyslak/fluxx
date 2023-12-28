@@ -1,0 +1,16 @@
+/* This is the file for any regular mobile devices */
+
+@media screen and(width <= 480px) {
+    /* Titles */
+    h1{
+        font-size: 26px !important;
+    }
+    h2{
+        font-size: 20px !important;
+    }
+
+    /* All Text on the site */
+    p, span{
+        font-size: 14px !important;
+    }
+}

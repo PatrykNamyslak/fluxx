@@ -1,0 +1,1 @@
+A sample web File is given to you, this structure will help you make a responsive and custom website in no time.

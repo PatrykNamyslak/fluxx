@@ -1,0 +1,48 @@
+:root{
+
+
+    /* Website Colour Scheme */
+
+    --primary_bg:#fff;
+    --secondary_bg:#fff;
+    --main:#3B0B94;
+    --accent_1:#fff;
+    --accent_2:#fff;
+    --text:#fff;
+    --button:#fff;
+    --other:#fff;
+    --hyperlinks:#fff;
+
+
+
+    /* MUTED Greens */
+    --green_1:#2ECC71;
+    --green_2:#27AE60;
+    --green_3:#229954;
+
+    /* MUTED Purples */
+    --purple_1:#9B59B6;
+    --purple_2:#8E44AD;
+    --purple_3:#7D3C95;
+
+    /* MUTED Blues */
+    --blue_1:#3498DB;
+    --blue_2:#2980B9;
+    --blue_3:#1E69A2;
+
+    /* black and whites */
+    --light_1:#F5F5F5;
+    --light_2:#E0E0E0;
+    --light_3:#D5D5D5;
+    --light_4:#cfcfcf;
+    --light_5:#c0c0c0;
+    --dark_light_1:#545454;
+    --dark_light_2:#424242;
+    --dark_light_3:#303030;
+    --dark_1:#212121;
+    --dark_2:#121212;
+
+    /* button Colors */
+    --blue_btn_1:#1962ff;
+}
+

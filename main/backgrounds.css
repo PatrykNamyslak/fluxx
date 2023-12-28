@@ -1,0 +1,50 @@
+/* CUSTOMISABLE found in colors.css */
+.bg-primary{
+    background-color: var(--primary);
+}
+.bg-secondary{
+    background-color: var(--secondary);
+}
+.bg-main{
+    background-color: var(--main);
+}
+.bg-accent-1{
+    background-color: var(--accent_1);
+}
+.bg-accent-2{
+    background-color: var(--accent_2);
+}
+/* GREENS */
+.bg-green_1{
+    background-color: var(--green_1);
+}
+.bg-green_2{
+    background-color: var(--green_2);
+}
+.bg-green_3{
+    background-color: var(--green_3);
+}
+/* PURPLES */
+.bg-purple_1{
+    background-color: var(--purple_1);
+}
+.bg-purple_2{
+    background-color: var(--purple_2);
+}
+.bg-purple_3{
+    background-color: var(--purple_3);
+}
+/* BLUES */
+.bg-blue_1{
+    background-color: var(--blue_1);
+}
+.bg-blue_2{
+    background-color: var(--blue_2);
+}
+.bg-blue_3{
+    background-color: var(--blue_3);
+}
+/* BLACK AND WHITES */
+.bg-light-1{
+    background-color: var(--light_1);
+}
